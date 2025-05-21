@@ -4,7 +4,7 @@ A full-featured Instagram-style social media app built with **Django**, featurin
 
 ## 🔗 Live Demo
 
-🌐 [View on Render](https://your-app-name.onrender.com) *(replace with actual URL)*
+🌐 [View on Render](https://instagram-django-dox7.onrender.com) 
 
 ---
 
